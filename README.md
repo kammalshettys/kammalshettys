@@ -2,5 +2,5 @@
 - 🔭 I am interested in building products and deploying it into in distributed systems.
 - 😄 Have previously worked in Philips and Napier Healthcare
 - 🌱 Currently pursuing masters in Software Enginerring at Northeastern University
-- 📫 I like to discuss technology and ideas, Feel free to reach me out https://www.linkedin.com/in/kammal-shetty-sai-sumanth/
+- 📫 I like to discuss technologies and ideas, Feel free to reach me out https://www.linkedin.com/in/kammal-shetty-sai-sumanth/
 
